@@ -1,0 +1,9 @@
+main.py
+assistant.py
+commands.py
+requirements.txt
+README.md
+print("Gourav AI Assistant Starting...")
+SpeechRecognition
+PyAudio
+pyttsx3
